@@ -17,14 +17,23 @@ The analysis covers retraction trends over time, geographic distribution by regi
 ## 📊 Key Findings | النتائج الرئيسية
 
 1- Retraction surge post-2010: Annual retractions grew from <500/year before 2010 to a peak of 13,519 in 2023 - a 27× increase.
+
 2- Asia-Pacific dominates: 66.5% of all retraction-linked papers. China alone accounts for 35,145 fractional credits (50.78%) - confirmed even after fair credit distribution.
+
 3- Top reason - publisher-driven: "Investigation by Journal/Publisher" leads with 30,522 mentions (11.4%). Paper mills rank #7 with 11,738 mentions (4.4%).
+
 4- Biology and Technology dominate by subject: Biology – Cellular #1 with 12,588 mentions (6.6%), followed by Technology (12,451) and Computer Science (9,158).
+
 5- Publisher concentration: Top 15 publishers account for 75.4% of all retractions. Hindawi leads at 16.4%, followed by IEEE at 14.4%.
+
 6- Most retractions involve multiple reasons: 78–86% of retracted papers cite 3 or more reasons. Asia-Pacific is highest at 86%; Europe lowest at 66%.
+
 7- Regional retraction patterns differ: Latin America leads on publisher investigations (21%). Sub-Saharan Africa shows the highest data concerns (15%). North America has the most institutional investigations (7%).
+
 8- Time to retraction is increasing: Average rose from ~1.3 years (1990) to 4.4 years (2026) - papers are taking longer to retract despite better detection tools.
+
 9- Country retraction speed varies sharply: Japan takes the longest at 6.5 years average. Czech Republic and Australia are among the fastest at ~3.3 years. Global average is 4.2 years.
+
 10- Psychiatry papers take longest by subject: Medicine – Psychiatry averages 13.3 years to retraction. Biology – Molecular and Medicine – Oncology retract fastest at ~3.1 years.
 
 ---
