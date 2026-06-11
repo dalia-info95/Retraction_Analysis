@@ -144,19 +144,19 @@ Copyright (c) 2026 Dalia Kbar
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
 You are free to:
-  ✅ Share     - copy and redistribute the material in any medium or format
-  ✅ Adapt     - remix, transform, and build upon the material for any purpose,
+ • Share     - copy and redistribute the material in any medium or format
+ • Adapt     - remix, transform, and build upon the material for any purpose,
                  even commercially
 
 Under the following terms:
-  📌 Attribution - You must give appropriate credit to the original author,
+   •Attribution - You must give appropriate credit to the original author,
                    provide a link to the license, and indicate if changes were made.
 
                    Please cite as:
                    Kbar, D. (2026). Global Retraction Analysis.
                    GitHub: https://github.com/dalia-info95/Retraction_Analysis
 
-  🚫 No additional restrictions - You may not apply legal terms or technological
+   • No additional restrictions - You may not apply legal terms or technological
                    measures that legally restrict others from doing anything the
                    license permits.
 
