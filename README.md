@@ -185,7 +185,7 @@ This license does NOT apply to:
 Information Specialist & Data Analyst  
 
 
-💼 [LinkedIn](www.linkedin.com/in/dalia-kbar-8b0b641ba)  
+💼 [LinkedIn](https://www.linkedin.com/in/dalia-kbar-8b0b641ba/)  
 🐙 [GitHub](https://github.com/dalia-info95/Retraction_Analysis)
 
 ---
