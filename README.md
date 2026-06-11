@@ -75,7 +75,13 @@ Retraction_Analysis/
 │   ├── 09_reason_region_heatmap.png       Reason × region bubble grid
 │   ├── 10_subject_reason_mosaic.png       Subject × reason Marimekko chart
 │   ├── 11_reason_cooccurrence_network.png Chord diagram of co-occurring reasons
-│   └── 12_pareto_reasons.png              Pareto chart of retraction reasons
+│   └── 12_top20_countries.png              
+│   └── 13_time_to_retraction_country_detail.png
+│   └── 14_time_to_retraction_subject.png
+│   └── 15_average_time_retraction.png
+
+                
+
 │
 ├── data/                              ← Final processed CSVs only (no raw data)
 │   ├── region_summary_final.csv           Region totals (full counting)
