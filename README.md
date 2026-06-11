@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview | نظرة عامة
+## Overview | نظرة عامة
 
 This repository presents a comprehensive bibliometric analysis of **70,121 retracted scientific papers** from the [Retraction Watch Database](https://retractionwatch.com/) - the world's largest curated dataset of retracted research.
 
@@ -14,7 +14,7 @@ The analysis covers retraction trends over time, geographic distribution by regi
 
 ---
 
-## 📊 Key Findings | النتائج الرئيسية
+## Key Findings | النتائج الرئيسية
 
 1- Retraction surge post-2010: Annual retractions grew from <500/year before 2010 to a peak of 13,519 in 2023 - a 27× increase.
 
@@ -38,7 +38,7 @@ The analysis covers retraction trends over time, geographic distribution by regi
 
 ---
 
-## 🔬 Methodology | المنهجية
+## Methodology | المنهجية
 
 ### Fractional Bibliometric Counting | العدّ الكسري البيبليومتري
 
@@ -51,11 +51,11 @@ This analysis applies **fractional counting** - a standard bibliometric method w
 
 **Example:** A paper with authors from China, USA, and Germany → each country receives **0.33 credits**, not 1.
 
-> ⚠️ **Note:** 914 papers had no country data recorded in Retraction Watch and were excluded from all geographic analyses. These are not "unknown" countries - the field was simply not populated.
+> **Note:** 914 papers had no country data recorded in Retraction Watch and were excluded from all geographic analyses. These are not "unknown" countries - the field was simply not populated.
 
 ---
 
-## 📁 Repository Structure | هيكلية المستودع
+## Repository Structure | هيكلية المستودع
 
 ```
 Retraction_Analysis/
@@ -100,7 +100,7 @@ Retraction_Analysis/
 
 ---
 
-## 📈 Visualizations Preview | معاينة المخططات
+## Visualizations Preview | معاينة المخططات
 
 | Chart | What It Shows |
 |-------|--------------|
@@ -114,7 +114,7 @@ Retraction_Analysis/
 
 ---
 
-## 🗃️ Data Source | مصدر البيانات
+## Data Source | مصدر البيانات
 
 **Retraction Watch Database**  
 - (https://retractiondatabase.org/) - maintained by the Center for Scientific Integrity  
@@ -124,7 +124,7 @@ Retraction_Analysis/
 
 ---
 
-## ⚙️ Tools Used | الأدوات المستخدمة
+## Tools Used | الأدوات المستخدمة
 
 | Tool | Purpose |
 |------|---------|
@@ -135,7 +135,7 @@ Retraction_Analysis/
 
 ---
 
-## 📄 License | الرخصة
+## License | الرخصة
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
@@ -179,7 +179,7 @@ This license does NOT apply to:
 
 ---
 
-## 👤 Author | المؤلف
+## Author | المؤلف
 
 **Dalia Kbar**  
 Information Specialist & Data Analyst  
